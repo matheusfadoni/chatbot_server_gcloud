@@ -1,5 +1,4 @@
 a hospedagem utilizada é o google cloud registrado na conta do marketing
-mkt.mapyshop@gmail.com
 
 a cada 3 meses é necessário gerar um novo certificado ssl
 o dominio está registrado na conta do murate (HEYMU)
