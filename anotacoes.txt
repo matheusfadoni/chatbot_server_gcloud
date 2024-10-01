@@ -1,0 +1,8 @@
+a hospedagem utilizada é o google cloud registrado na conta do marketing
+mkt.mapyshop@gmail.com
+
+a cada 3 meses é necessário gerar um novo certificado ssl
+o dominio está registrado na conta do murate (HEYMU)
+
+comando para testar do meu computador pelo terminal
+curl -X POST https://chatbotzendeskmapy.dev.br:53329/webhook -H "Content-Type: application/json" -d '{"produto": "gin tanqueray", "setor": "BEBIDAS"}'
